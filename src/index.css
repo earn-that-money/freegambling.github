@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom casino glow style */
+body {
+  background: radial-gradient(circle at center, #0d0d0d 0%, #1a0026 80%);
+  color: white;
+}
